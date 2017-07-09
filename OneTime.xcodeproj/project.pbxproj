@@ -235,14 +235,17 @@
 				TargetAttributes = {
 					004D63011F1286A600AE4C94 = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = 3L2MH8VX8F;
 						ProvisioningStyle = Automatic;
 					};
 					004D63131F1286A600AE4C94 = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = 3L2MH8VX8F;
 						ProvisioningStyle = Automatic;
 					};
 					004D63221F1286A600AE4C94 = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = 3L2MH8VX8F;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -457,6 +460,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_COMPLICATION_NAME = Complication;
+				DEVELOPMENT_TEAM = 3L2MH8VX8F;
 				INFOPLIST_FILE = "OneTime WatchKit Extension/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = self.edu.moaaz.OneTime.watchkitapp.watchkitextension;
@@ -473,6 +477,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_COMPLICATION_NAME = Complication;
+				DEVELOPMENT_TEAM = 3L2MH8VX8F;
 				INFOPLIST_FILE = "OneTime WatchKit Extension/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = self.edu.moaaz.OneTime.watchkitapp.watchkitextension;
@@ -490,6 +495,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 3L2MH8VX8F;
 				IBSC_MODULE = OneTime_WatchKit_Extension;
 				INFOPLIST_FILE = "OneTime WatchKit App/Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = self.edu.moaaz.OneTime.watchkitapp;
@@ -507,6 +513,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 3L2MH8VX8F;
 				IBSC_MODULE = OneTime_WatchKit_Extension;
 				INFOPLIST_FILE = "OneTime WatchKit App/Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = self.edu.moaaz.OneTime.watchkitapp;
@@ -523,6 +530,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 3L2MH8VX8F;
 				INFOPLIST_FILE = OneTime/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = self.edu.moaaz.OneTime;
@@ -535,6 +543,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 3L2MH8VX8F;
 				INFOPLIST_FILE = OneTime/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = self.edu.moaaz.OneTime;
